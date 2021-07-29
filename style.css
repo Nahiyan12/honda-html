@@ -1,0 +1,38 @@
+.part1{
+width: 100;
+background-color: darkslategray;
+font-size: 60px;
+text-shadow: black;
+font-family: 'Comfortaa', cursive;
+padding-left: 200px;
+color: aliceblue;
+}
+.smaller{
+    font-size: 20px;
+    padding-bottom: 100px;
+    padding-top: 20px
+}
+.smaller2{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.imgrow img{
+    width: 500px;
+    justify-content: space-around;
+    padding-left: 110px;
+    padding-bottom: 300px;
+}
+.bio{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    }
+
+.imgrow2 img{
+     width: 200px;
+    justify-content: space-around;
+    padding-left: 310px;
+}
+.rating{
+    font-size: 100px;
+    padding-left: 560px;
+}
